@@ -1,0 +1,5 @@
+fun main() {
+    println("A12.2019.06219")
+    println("Ken Ramandha")
+    println("Ngaliyan, Semarang")
+}
